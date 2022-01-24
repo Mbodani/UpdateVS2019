@@ -34,3 +34,4 @@ C:\Udemy\CsharpDotnet\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\S
 C:\Udemy\CsharpDotnet\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Udemy\CsharpDotnet\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Udemy\CsharpDotnet\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Udemy\CsharpDotnet\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\index.cshtml.g.cs
